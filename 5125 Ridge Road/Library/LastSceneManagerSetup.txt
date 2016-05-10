@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Outdoor Street Scene.unity
+- path: Assets/Outdoor Street Scene - Copy.unity
   isLoaded: 1
   isActive: 1
